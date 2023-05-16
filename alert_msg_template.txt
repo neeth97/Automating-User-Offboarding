@@ -1,0 +1,18 @@
+Please investigate the following changes/issues.
+
+====================================
+Changed affiliations (ENV_PLHLDR)
+====================================
+
+..............................................................................
+Uniqname: MEMBER_PLHLDR(https://mcommunity.umich.edu/#profile:MEMBER_PLHLDR)
+..............................................................................
+
+Current affiliations:
+NEW_AFF_PLHLDR
+
+Previous known affiliations:
+OLD_AFF_PLHLDR
+
+Developer Orgs:
+DEV_ORG_PLHLDR
